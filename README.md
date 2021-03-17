@@ -1,3 +1,3 @@
 # mongit
 
-To start any key
+To start press any key
